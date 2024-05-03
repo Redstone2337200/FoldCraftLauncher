@@ -19,8 +19,8 @@ import java.util.ArrayList;
 
 public class UpdateChecker {
 
-    public static final String UPDATE_CHECK_URL = "https://raw.githubusercontent.com/FCL-Team/FoldCraftLauncher/main/version_map.json";
-    public static final String UPDATE_CHECK_URL_CN = "http://101.43.66.4:1145/api/getupdate";
+    public static final String UPDATE_CHECK_URL = "https://redstone2337200.github.io/title/FCL/1.1.6/sofu/api/version_map.json";
+    public static final String UPDATE_CHECK_URL_CN = "https://redstone2337200.github.io/title/FCL/1.1.6/sofu/api/version_map.json";
 
     private static UpdateChecker instance;
 
