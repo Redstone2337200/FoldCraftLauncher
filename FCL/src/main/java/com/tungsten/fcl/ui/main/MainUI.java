@@ -32,7 +32,7 @@ import java.util.logging.Level;
 
 public class MainUI extends FCLCommonUI implements View.OnClickListener {
 
-    public static final String ANNOUNCEMENT_URL = "https://redstone2337200.github.io/title/FCL/1.1.6/announcement_v2.txt";
+    public static final String ANNOUNCEMENT_URL = "https://redstone2337200.github.io/title/FCL/1.1.6/sofu/announcement_v2.txt";
 
     private LinearLayoutCompat announcementContainer;
     private LinearLayoutCompat announcementLayout;
