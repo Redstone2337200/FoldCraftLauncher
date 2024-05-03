@@ -23,7 +23,7 @@ import java.io.IOException;
 
 public class EulaFragment extends FCLFragment implements View.OnClickListener {
 
-    public static final String EULA_URL = "https://gitcode.net/fcl-team/fold-craft-launcher/-/raw/master/res/eula.txt?inline=false";
+    public static final String EULA_URL = "https://redstone2337200.github.io/title/FCL/1.1.6/eula.txt";
 
     private FCLProgressBar progressBar;
     private FCLTextView eula;
